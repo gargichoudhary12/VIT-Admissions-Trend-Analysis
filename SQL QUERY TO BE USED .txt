@@ -1,0 +1,7 @@
+SQL QUERY TO BE USED :
+
+select case when samplefile2.compound>=0.05 THEN 'Positive'
+when samplefile2.compound<=-0.05 THEN 'Negative'
+else 'Neutral'
+END AS QuantityText, count(1) FROM
+samplefile2 group by QuantityText;
