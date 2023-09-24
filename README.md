@@ -20,4 +20,10 @@ The key technologies used in this project are python, machine learning, NLP, dat
 
 **DOMAIN -** Data Analysis and Natural Language Processing 
 
+
+
+
+![image](https://github.com/gargichoudhary12/VIT-Admissions-Trend-Analysis/assets/104214078/2f2a17bc-e91e-411e-b7a8-36f48679a99f)
+
+
 ![image](https://github.com/gargichoudhary12/VIT-Admissions-Trend-Analysis/assets/104214078/5525fcca-8f85-4024-8949-cd167c15ba9e)
